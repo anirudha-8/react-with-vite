@@ -79,7 +79,7 @@ CSS Modules: How to style components with CSS modules in Vite.
 
 - Official Docs: [Vite Documentation](https://vitejs.dev/guide/)
 
-- React Docs: [React Official Docs](https://legacy.reactjs.org/docs/getting-started.html)
+- React Docs: [React Official Docs](https://react.dev/blog/2023/03/16/introducing-react-dev)
 
 - Community Tutorials: Links to helpful blog posts and tutorials I come across.
 
